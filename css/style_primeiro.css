@@ -1,0 +1,76 @@
+*{
+    background-color: aliceblue;
+    margin: 1;
+    padding: 0;
+    box-sizing: border-box;
+
+
+}
+
+button:hover {
+    cursor: pointer; /* Define o cursor como uma mãozinha (cursor de link) */
+}
+
+.center{
+    display: flex;
+    flex-wrap: wrap;
+    max-width: 1200px;
+    margin:0 auto;
+    padding: 0 2%;
+}
+
+header{
+    padding: 20px 0;
+}
+.logo{
+    width: 41%;
+    border: 2px solid #000; 
+    display: flex
+    margin: 10px;
+    padding: 80px;
+    border-width: 4px;
+    max-width: 100%; 
+    margin: 0 auto;
+    @media (max-width: 768px) {
+      
+    
+    @media (min-width: 769px) {
+       
+    }
+    
+}
+
+.texto
+{
+    margin-left: 400px;
+    margin-top: -260px;
+    font-family: monospace;
+    font-size: 17px;
+}
+
+.botoes1
+{
+margin-top: 70px;
+margin-left: 30px;
+
+}
+
+.materias
+{ 
+    margin-top: 120px;
+        border: 2px solid #000
+}
+
+.vida
+{
+    border: 2px solid #000;
+    
+}
+.hobbies
+{
+    border: 2px solid #000;
+}
+
+    
+
+ 

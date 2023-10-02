@@ -1,0 +1,16 @@
+*{
+    background-color: aliceblue;
+    margin: 1;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.contato {
+    border: 2px solid #000;
+    margin-left: 10px;
+    padding-left: 20px;
+}
+
+button:hover {
+    cursor: pointer; /* Define o cursor como uma mãozinha (cursor de link) */
+}

@@ -1,0 +1,31 @@
+*{
+    background-color: aliceblue;
+    margin: 1;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.serv {text-align: center;
+display: flex;
+justify-content: center;
+height: 100vh;
+z-index: 1;
+position: relative;
+}
+
+.tabela{
+    margin-top: -800px;
+    z-index: 2;
+    position: relative;
+}
+
+.qualidade
+{
+    
+    z-index: 3;
+    position: relative;
+}
+
+
+

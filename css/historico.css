@@ -1,0 +1,23 @@
+*{
+    margin: 1;
+    padding: 0;
+    box-sizing: border-box;
+    background-color: azure;
+}
+
+.historico
+{
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    height: 100vh;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+.experiencia
+{
+    
+    text-decoration: 2px underline;
+    margin-left: 20px;
+    margin-top: -800px;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif
+}
